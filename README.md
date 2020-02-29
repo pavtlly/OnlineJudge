@@ -15,7 +15,7 @@ Java大作业 在线评测系统
 
 2.1网站结构
 
-
+![image](https://github.com/pavtlly/OnlineJudge/blob/master/images/1.png)
 
 2.2主要功能
 
@@ -39,7 +39,7 @@ Java大作业 在线评测系统
 
 3.1程序架构
 
-
+![image](https://github.com/pavtlly/OnlineJudge/blob/master/images/2.png)
 
 3.2使用说明
 
