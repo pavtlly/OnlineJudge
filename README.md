@@ -17,6 +17,8 @@ Java大作业 在线评测系统
 
 2.1网站结构
 
+![image](https://github.com/pavtlly/OnlineJudge/blob/master/images/1.png)
+
 2.2主要功能
 
   以下功能均对应相应的JSP，Servlet层，DAO层，Service层
@@ -52,6 +54,8 @@ Java大作业 在线评测系统
 三、程序架构和使用说明
 
 3.1程序架构
+
+![image](https://github.com/pavtlly/OnlineJudge/blob/master/images/2.png)
 
 3.2使用说明
 
