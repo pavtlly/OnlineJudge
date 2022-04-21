@@ -5,21 +5,21 @@ Java大作业 在线评测系统
 
 #### 一、项目概况
 
-1.1设计内容
+1.1 设计内容
 
 　　一个在线评测系统，分用户和管理员两种身份。用户能够通过注册登录，参加比赛，最后实时得到比赛结果，并保存历史比赛结果；管理员除此之外还能录入题目增加题库内容。
 
-1.2开发工具
+1.2 开发工具
 
 　　Eclipse，Java，MySQL，Redis，Html，CSS，JS。
 
 #### 二、详细设计
 
-2.1网站结构
+2.1 网站结构
 
 ![image](https://github.com/pavtlly/OnlineJudge/blob/master/images/1.png)
 
-2.2主要功能
+2.2 主要功能
 
   以下功能均对应相应的JSP，Servlet层，DAO层，Service层
   
@@ -53,11 +53,11 @@ Java大作业 在线评测系统
   
 #### 三、程序架构和使用说明
 
-3.1程序架构
+3.1 程序架构
 
 ![image](https://github.com/pavtlly/OnlineJudge/blob/master/images/2.png)
 
-3.2使用说明
+3.2 使用说明
 
 　　文件结构：Dao层，Service层，Servlet层。数据库操作在Dao层，Service层为相关服务，Servlet层获取从JSP得到的相关数据并重定向到其他jsp页面。
 
